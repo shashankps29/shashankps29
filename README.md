@@ -39,6 +39,13 @@
 - PostgreSQL
 - SQLite
 
+
+### Core Concepts
+
+- Computer Network
+- Operating System
+
+  
 ### Tools
 
 - Git
@@ -70,29 +77,50 @@
 
 ## 🏆 Achievements
 
-- 🎖️ Solving Data Structures & Algorithms problems consistently on LeetCode
-- 💼 Built multiple Java & Spring Boot projects
-- 📚 Learning System Design and Backend Development
-- 🚀 Passionate about writing clean and scalable code
+-  Solving Data Structures & Algorithms problems consistently on LeetCode
+-  Built multiple Java & Spring Boot projects
+-  Learning Backend Development
+-  Passionate about writing clean and scalable code
 
 ---
 
 ## 📂 Featured Projects
 
-### 📈 Stock Price Prediction System
+## Featured Projects
 
-- JavaFX Desktop Application
-- SQLite Database
-- Weka Machine Learning
-- Interactive Charts
+###  Feature Flag Service
+A backend service built using Spring Boot to manage feature toggles and enable controlled feature rollouts for applications.
 
-### 🎓 College Management System
+**Tech Stack:** Java, Spring Boot, REST API, Maven
 
-- Spring Boot
-- JSP
-- PostgreSQL
-- CRUD Operations
-- Authentication
+🔗 Repository: https://github.com/shashankps29/feature.flag.service
+
+---
+
+### Student Management System
+A web-based application for managing student records with CRUD operations and database integration.
+
+**Tech Stack:** Java, Spring Boot, JSP, PostgreSQL
+
+🔗 Repository: https://github.com/shashankps29/student--management
+
+---
+
+### Task Manager
+A task management application that helps users organize and track daily tasks efficiently.
+
+**Tech Stack:** Java, Spring Boot, REST API, PostgreSQL
+
+🔗 Repository: https://github.com/shashankps29/Task_Manager
+
+---
+
+### Go Buddy *(College Group Project)*
+A collaborative college project focused on building a ride-sharing/travel companion platform to connect users for shared journeys.
+
+**Role:** Backend Development & Team Collaboration
+
+🔗 Repository: https://github.com/shashankps29/Go_Buddy
 
 ---
 
