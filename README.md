@@ -100,7 +100,7 @@ A backend service built using Spring Boot to manage feature toggles and enable c
 ### Student Management System
 A web-based application for managing student records with CRUD operations and database integration.
 
-**Tech Stack:** Java, Spring Boot, JSP, PostgreSQL
+**Tech Stack:** Java, Spring MVC, Hibernate, JPA, JSP, PostgreSQL
 
 🔗 Repository: https://github.com/shashankps29/student--management
 
