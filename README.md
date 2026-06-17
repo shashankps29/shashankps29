@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shashank Pratap Singh</h1>
-<h3 align="center">Computer Science Student | Java Developer | DSA Enthusiast</h3>
+<h3 align="center">Computer Science 2022-2026 | Java Developer | DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashankps29&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -9,7 +9,7 @@
 
 ## About Me
 
--  B.Tech Computer Science Student
+-  B.Tech Computer Science (2022-2026)
 -  Passionate about Java Development and Problem Solving
 -  Currently learning Spring Boot and Data Structures & Algorithms
 -  Love building real-world backend applications
@@ -75,7 +75,7 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 -  Solving Data Structures & Algorithms problems consistently on LeetCode
 -  Built multiple Java & Spring Boot projects
@@ -84,7 +84,7 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ## Featured Projects
 
