@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Shashank Pratap Singh</h1>
-<h3 align="center">Computer Science 2022-2026 | Java Developer | DSA Enthusiast</h3>
+
+<h3 align="center">
+  <marquee>
+    Computer Science (2022–2026) | Java | Spring Boot | Spring MVC | JavaScript | MySQL | PostgreSql| DSA
+  </marquee>
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashankps29&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
